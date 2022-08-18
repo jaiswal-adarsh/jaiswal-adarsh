@@ -35,6 +35,7 @@ I am Adarsh Jaiswal, currently pursuing my Bachelor's degree in Computer Science
  <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="29"/>
  <img src="https://img.shields.io/badge/-GitHub-purple?style=for-the-badge&logo=github" />&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/-VSCode-blue?style=for-the-badge&logo=visual-studio-code" />&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Microsoft-PowerBI-yellow" />&nbsp;&nbsp;&nbsp;&nbsp;
  	
 </tr>
 </table>
