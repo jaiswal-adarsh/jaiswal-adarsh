@@ -32,10 +32,10 @@ I am Adarsh Jaiswal, currently pursuing my Bachelor's degree in Computer Science
 
 <p align="center">
 	
- <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="29"/>
- <img src="https://img.shields.io/badge/-GitHub-purple?style=for-the-badge&logo=github" />&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/-VSCode-blue?style=for-the-badge&logo=visual-studio-code" />&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Microsoft-PowerBI-yellow" />&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="29" href="https://www.python.org/"/>
+ <img src="https://img.shields.io/badge/-GitHub-purple?style=for-the-badge&logo=github" href="https://github.com/" />&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/-VSCode-blue?style=for-the-badge&logo=visual-studio-code" href="https://code.visualstudio.com/" />&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Microsoft-PowerBI-yellow" href="https://powerbi.microsoft.com/en-us/"/>&nbsp;&nbsp;&nbsp;&nbsp;
  	
 </tr>
 </table>
