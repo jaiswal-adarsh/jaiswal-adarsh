@@ -47,11 +47,11 @@ I am Adarsh Jaiswal, currently pursuing my Bachelor's degree in Computer Science
 <h1 align="center"> 🔥My Contributions: </h1>
 
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jaiswal-adarsh&show_icons=true&theme=solarized-light" />  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiswal-adarsh&theme=solarized-light" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jaiswal-adarsh&show_icons=true&theme=dark" />  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiswal-adarsh&theme=dark" />
   
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaiswal-adarsh&theme=solarized-light)](https://github.com/tanyagupta0201/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaiswal-adarsh&theme=dark)](https://github.com/tanyagupta0201/github-readme-stats)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
