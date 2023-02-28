@@ -53,7 +53,7 @@ I am Adarsh Jaiswal, currently pursuing my Bachelor's degree in Computer Science
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaiswal-adarsh&theme=dark)](https://github.com/jaiswal-adarsh/github-readme-stats)
 <br/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/jaiswal-adarsh)
+<p align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/jaiswal-adarsh)</p>
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
