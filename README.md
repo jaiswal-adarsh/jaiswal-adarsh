@@ -10,6 +10,7 @@ I am Adarsh Jaiswal, currently pursuing my Bachelor's degree in Computer Science
 [![Instagram Badge](https://img.shields.io/badge/-Adarsh_jaiswal-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/adarsh_jaiswal_0/)](https://www.instagram.com/adarsh_jaiswal_0/)
 [![Gmail Badge](https://img.shields.io/badge/-adarshnayan6@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adarshnayan6@gmail.com)](mailto:adarshnayan6@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Adarsh-lightblue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/adarshjaiswal0)](https://twitter.com/adarshjaiswal0)
+<img src="https://komarev.com/ghpvc/?username=jaiswal-adarsh&style=plastic" />
 
 
 
