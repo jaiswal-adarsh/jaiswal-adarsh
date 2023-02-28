@@ -51,7 +51,7 @@ I am Adarsh Jaiswal, currently pursuing my Bachelor's degree in Computer Science
   
 </p>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanyagupta0201&theme=dark)](https://github.com/tanyagupta0201/github-readme-stats)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
