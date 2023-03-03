@@ -59,7 +59,7 @@ I am Adarsh Jaiswal, currently pursuing my Bachelor's degree in Computer Science
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting+My+Profile!!&center=true&color="FF0000")](https://github.com/jaiswal-adarsh)
 ### :zap: Recent Activity
 
-<!---START_SECTION:activity--->
+<!--START_SECTION:activity-->
 
 
 
