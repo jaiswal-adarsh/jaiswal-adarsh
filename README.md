@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hi, I am Adarsh! Welcome to my Github Profile! :wave: </h1>
 
-I am Adarsh Jaiswal, currently pursuing my Bachelor's degree in Computer Science and Engineering with Specialization in Artificial Intelligence and Machine Learning . I am a good learner and a geek. I am always open for collaborating on projects and ideas. 
+I am currently pursuing my Bachelor's degree in Computer Science and Engineering with Specialization in Artificial Intelligence and Machine Learning . I am a good learner and a geek. I am always open for collaborating on projects and ideas. 
 
 
 ### Explore more about me & feel free to connect with me here:
