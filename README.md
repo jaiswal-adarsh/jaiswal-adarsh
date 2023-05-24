@@ -1,10 +1,10 @@
 
 <h1 align="center"> Hi, I am Adarsh! Welcome to my Github Profile! :wave: </h1>
 
-I am currently pursuing my Bachelor's degree in Computer Science and Engineering with Specialization in Artificial Intelligence and Machine Learning . I am a good learner and a geek. I am always open for collaborating on projects and ideas. 
+I am currently pursuing my Bachelor's degree in Computer Science and Engineering with Specialization in Artificial Intelligence and Machine Learning. I am a good learner and a geek. I am always open for collaborating on projects and ideas. 
 
 
-### Explore more about me & feel free to connect with me here:
+### Explore more about me & feel free to connect with me here::
 
 [![Linkedin Badge](https://img.shields.io/badge/-Adarshjaiswal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adarsh-jaiswal-1918981a7/)](https://www.linkedin.com/in/adarsh-jaiswal-1918981a7/)
 [![Instagram Badge](https://img.shields.io/badge/-Adarsh_jaiswal-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/adarsh_jaiswal_0/)](https://www.instagram.com/adarsh_jaiswal_0/)
