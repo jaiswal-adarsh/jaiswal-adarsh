@@ -26,7 +26,8 @@ class Skills extends SoftwareDeveloper {
 </p>
 
 
-### Explore more about me & feel free to connect with me here::
+<!-- ### Explore more about me & feel free to connect with me here:: -->
+<h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Adarshjaiswal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adarsh-jaiswal-1918981a7/)](https://www.linkedin.com/in/adarsh-jaiswal-1918981a7/)
 [![Instagram Badge](https://img.shields.io/badge/-Adarsh_jaiswal-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/adarsh_jaiswal_0/)](https://www.instagram.com/adarsh_jaiswal_0/)
@@ -69,11 +70,11 @@ class Skills extends SoftwareDeveloper {
 <h1 align="center"> 🔥My Contributions: </h1>
 
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jaiswal-adarsh&show_icons=true&theme=dark" />  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiswal-adarsh&theme=dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jaiswal-adarsh&show_icons=true&theme=light" />  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiswal-adarsh&theme=light" />
   
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaiswal-adarsh&theme=dark)](https://github.com/jaiswal-adarsh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaiswal-adarsh&theme=light)](https://github.com/jaiswal-adarsh/github-readme-stats)
 <br/>
 <br/>
 <br/>
